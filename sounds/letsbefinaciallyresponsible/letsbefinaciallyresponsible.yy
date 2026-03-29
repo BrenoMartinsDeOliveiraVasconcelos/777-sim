@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"letsbefinaciallyresponsible",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.3247845,
+  "exportDir":"",
+  "name":"letsbefinaciallyresponsible",
+  "parent":{
+    "name":"OST",
+    "path":"folders/OST.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"letsbefinaciallyresponsible.ogg",
+  "volume":0.55,
+}
